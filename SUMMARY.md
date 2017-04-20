@@ -1,7 +1,4 @@
 # Summary
 
 * [はじめに](README.md)
-* Jupyter
-    * Jupyter環境の整備
-* FPGA
-    * FPGAの開発環境整備
+* [PYNQ-Z1 起動から更新まで](./setup/README.md)
